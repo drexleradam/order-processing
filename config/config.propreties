@@ -1,0 +1,8 @@
+jdbc.driver=
+jdbc.url=
+jdbc.user=
+jdbc.password=
+ftp.server=
+ftp.port=
+ftp.user=
+ftp.password=

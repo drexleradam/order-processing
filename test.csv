@@ -1,0 +1,99 @@
+LineNumber;OrderItemId;OrderId;BuyerName;BuyerEmail;Address;Postcode;SalePrice;ShippingPrice;SKU;Status;OrderDate
+1;1;1;Laci;laci@mail.com;Amszterdam;1111;1,99;0;qwepoi0001;IN_STOCK;2018-02-28
+2;2;2;Zoli;zoli@mail.com;Andorra;1116;2,99;0,25;qwepoi0002;OUT_OF_STOCK;
+3;1;3;Joci;joci@mail.com;Athén;1121;3,99;0,5;qwepoi0003;IN_STOCK;2018-01-27
+4;4;4;Antal;antal@mail.com;Bécs;1126;4,99;0,75;qwepoi0004;IN_STOCK;
+5;5;1;Ármin;armin95@mail.com;Bali;1131;5,99;1;qwepoi0005;OUT_OF_STOCK;2018-02-28
+6;6;5;Pista;pistaba85@mail.com;Bangkok;1136;6,99;1,25;qwepoi0006;IN_STOCK;
+7;7;5;József;jozsika13@mail.com;Barcelona;1141;7,99;1,5;qwepoi0007;IN_STOCK;2018-01-27
+8;8;5;Elemér;12345@mail.com;Bük;1146;8,99;1,75;qwepoi0008;OUT_OF_STOCK;
+9;9;5;Ivett;ivett55@mail.com;Belfast;a123;9,99;2;qwepoi0009;IN_STOCK;2018-02-28
+10;10;5;Petra;petra@mail.com;Belgrád;1156;0;2,25;qwepoi0010;IN_STOCK;
+11;11;5;Márk;mark@mail.com;Berlin;1161;11,99;2,5;qwepoi0011;OUT_OF_STOCK;2018-01-27
+12;12;6;Dani;dani@mail.com;Brüsszel;1166;12,99;2,75;qwepoi0012;IN_STOCK;
+13;13;6;Bence;bence@mail.com;Budapest;1171;13,99;3;qwepoi0013;IN_STOCK;2018-02-29
+14;14;7;Ádám;adam13@mail.com;Buenos Aires;1176;14,99;3,25;qwepoi0014;OUT_OF_STOCK;
+15;15;8;Tibi;tibi@mail.com;Bukarest;1181;15,99;3,5;qwepoi0015;IN_STOCK;2018-01-27
+16;16;9;Evelin;nem.jo-1@mail.com;Ciprus;1186;16,99;3,75;qwepoi0016;IN_STOCK;
+17;17;10;Erik;erik@mail.com;Costa del So;1191;17,99;4;qwepoi0017;OUT_OF_STOCK;2018-02-28
+18;18;11;Cintia;cintia@mail.com;Debrecen;1196;18,99;4,25;qwepoi0018;IN_STOCK;
+19;19;12;Attila;attila@mail.com;Delhi;1201;19,99;4,5;qwepoi0019;IN_STOCK;2018-01-27
+20;20;12;Atilla;atilla@mail.com;Dubai;1206;20,99;4,75;qwepoi0020;OUT_OF_STOCK;
+21;11;12;Ágoston;agoston@mail.com;Dublin;1211;21,99;5;qwepoi0021;stock;2018-02-28
+22;22;12;Péter;pettter@mail.com;Eger;1216;22,99;-14,05;qwepoi0022;IN_STOCK;
+23;23;12;Botond;botond@mail.com;Firenze;1221;23,99;5,5;qwepoi0023;OUT_OF_STOCK;2018-01-27
+24;24;13;Tamás;tamas@mail.com;Frankfurt;1226;24,99;5,75;qwepoi0024;IN_STOCK;
+25;25;13;Tivadar;tivadirdur@mail.com;Glasgow;1231;25,99;6;qwepoi0025;IN_STOCK;2018-02-28
+26;26;5;Bálint;balintika@mail.com;Gyula;1236;26,99;6,25;qwepoi0026;OUT_OF_STOCK;
+27;27;13;Bence;bancse@mail.com;Hajdúszoboszló;1241;27,99;6,5;qwepoi0027;IN_STOCK;2018-01-27
+28;28;13;Niki;nikolina@mail.com;Hamburg;1246;28,99;6,75;qwepoi0028;IN_STOCK;
+29;29;14;Bernadett;bernikecske@mail.com;Hanoi;1234b;29,99;7;qwepoi0029;OUT_OF_STOCK;2018-02-28
+30;30;15;Erzsébet;erzsik3@mail.com;Havanna;1256;30,99;7,25;qwepoi0030;IN_STOCK;
+31;31;16;Laci;lacimaci@mail.com;Hawaii-szigetek;1261;31,99;7,5;qwepoi0031;IN_STOCK;2018-01-27
+32;2;16;Zoli;helozoli@mail.com;Hévíz;1266;32,99;7,75;qwepoi0032;OUT_OF_STOCK;
+33;33;17;Joci;jocccika@mail.com;Helsinki;1271;33,99;8;qwepoi0033;IN_STOCK;2018-02-28
+34;34;18;Antal;antalka@mail.com;Hong Kong;1276;34,99;8,25;qwepoi0034;not in stock;
+35;35;19;Ármin;arminocska@mail.com;Horvát szigetek;1281;35,99;8,5;qwepoi0035;OUT_OF_STOCK;2018-01-27
+36;36;20;Pista;pip3@mail.com;Ibiza;1286;36,99;8,75;qwepoi0036;IN_STOCK;
+37;37;20;József;jocika51@mail.com;Isztambul;1291;37,99;9;qwepoi0037;IN_STOCK;2018-02-28
+38;38;20;Elemér;viszaemer@mail.com;Isztria;1296;38,99;9,25;qwepoi0038;OUT_OF_STOCK;
+39;39;21;Ivett;ivet11@mail.com;Köln;1301;39,99;9,5;qwepoi0039;IN_STOCK;2018-01-27
+40;40;21;Petra;petracska@mail.com;Kairó;1306;40,99;9,75;qwepoi0040;IN_STOCK;
+41;27;21;Márk;markoko@mail.com;Kanári szigetek;1311;41,99;10;qwepoi0041;OUT_OF_STOCK;2018-02-28
+42;42;22;Dani;danihopp@mail.com;Kaunas;1316;42,99;10,25;qwepoi0042;IN_STOCK;
+43;43;8;Bence;bencus@mail.com;Keszthely;1321;43,99;10,5;qwepoi0043;IN_STOCK;2018-01-27
+44;44;24;Ádám;adam44@mail.com;Kijev;1326;44,99;10,75;qwepoi0044;OUT_OF_STOCK;
+45;45;25;Tibi;tibiatya@mail.com;Kolozsvár;1331;45,99;11;qwepoi0045;IN_STOCK;2018-02-28
+46;46;25;Evelin;evelinecske@mail.com;Koppenhága;1336;46,99;11,25;qwepoi0046;IN_STOCK;
+47;47;26;Erik;erikecske@mail.com;Korfu;1341;47,99;11,5;qwepoi0047;OUT_OF_STOCK;2018-01-27
+48;48;27;Cintia;cintike@mail.com;Korzika;1346;48,99;11,75;qwepoi0048;IN_STOCK;
+49;49;28;Attila;ata@mail.com;Kos;1351;49,99;12;qwepoi0049;IN_STOCK;2018-02-28
+50;6;29;Atilla;ata@mail.com;Kréta;1356;50,99;12,25;qwepoi0050;OUT_OF_STOCK;
+51;51;30;Ágoston;agistinke@mail.com;Krakkó;1361;51,99;12,5;qwepoi0051;IN_STOCK;2018-01-27
+52;52;30;Péter;peter@mail.com;Las Vegas;1366;52,99;12,75;qwepoi0052;IN_STOCK;
+53;53;20;Botond;botika@mail.com;Liechtenstein;1371;53,99;13;qwepoi0053;OUT_OF_STOCK;2018-02-28
+54;54;31;Tamás;timea@mail.com;Lima;1376;54,99;13,25;qwepoi0054;IN_STOCK;
+55;55;31;Tivadar;tivi@mail.com;Lisszabon;1381;55,99;13,5;qwepoi0055;IN_STOCK;2018-01-27
+56;56;32;Bálint;balint@mail.com;Ljubljana;1386;56,99;13,75;qwepoi0056;OUT_OF_STOCK;
+57;57;32;Bence;bence@mail.com;London;1391;57,99;14;qwepoi0057;IN_STOCK;2018-02-28
+58;58;32;Niki;;Los Angeles;1396;58,99;14,25;qwepoi0058;IN_STOCK;
+59;59;33;Bernadett;berni@mail.com;Luxemburg;1401;59,99;14,5;qwepoi0059;OUT_OF_STOCK;2018-01-27
+60;60;33;Erzsébet;erzsebet@mail.com;Málta;1406;60,99;14,75;qwepoi0060;IN_STOCK;
+61;42;34;Laci;lacike@mail.com;München;1411;61,99;15;qwepoi0061;IN_STOCK;2018-02-28
+62;62;35;Zoli;zol@mail.com;Madrid;1416;62,99;15,25;qwepoi0062;OUT_OF_STOCK;
+63;63;36;Joci;jocci@mail.com;Mallorca;1421;63,99;15,5;qwepoi0063;IN_STOCK;2010-04-34
+64;64;31;Antal;antika@mail.com;Mexikóváros;1426;64,99;15,75;qwepoi0064;IN_STOCK;
+65;65;38;Ármin;arminocska@mail.com;Milánó;1431;65,99;16;qwepoi0065;OUT_OF_STOCK;2018-02-28
+66;66;39;Pista;piskik3@mail.com;Miskolc;1436;66,99;16,25;qwepoi0066;IN_STOCK;
+67;67;39;József;jozsefi@mail.com;Monaco;1441;67,99;16,5;qwepoi0067;IN_STOCK;2018-01-27
+68;68;39;Elemér;elem@mail.com;Montenegró;1446;68,99;16,75;qwepoi0068;OUT_OF_STOCK;
+69;69;40;Ivett;iv33t@mail.com;Moszkva;1451;69,99;17;qwepoi0069;IN_STOCK;2018-02-28
+70;23;41;Petra;petla@mail.com;Nápoly;1456;70,99;17,25;qwepoi0070;IN_STOCK;
+71;71;42;Márk;mark@mail.com;New York;1461;71,99;17,5;qwepoi0071;OUT_OF_STOCK;2018-01-27
+72;72;42;Dani;danni@mail.com;Oslo;1466;72,99;17,75;qwepoi0072;IN_STOCK;
+73;73;43;Bence;bence@mail.com;;1471;73,99;18;qwepoi0073;IN_STOCK;2018-02-28
+74;74;44;Ádám;adam@mail.com;Peking;1476;74,99;18,25;qwepoi0074;OUT_OF_STOCK;
+75;75;45;Tibi;tibi@mail.com;Pozsony;1481;75,99;18,5;qwepoi0075;IN_STOCK;2018-01-27
+76;76;46;Evelin;evelin@mail.com;Róma;1486;76,99;18,75;qwepoi0076;IN_STOCK;
+77;46;Erik;kire@mail.com;Riga;1491;77,99;19;qwepoi0077;OUT_OF_STOCK;2018-02-28
+78;78;47;Cintia;aitnic@mail.com;Rio de Janeiro;1496;78,99;19,25;qwepoi0078;IN_STOCK;
+79;79;47;Attila;alitta@mail.com;Rodosz;1501;79,99;19,5;qwepoi0079;IN_STOCK;2018-01-27
+80;80;47;Atilla;atillka@mail.com;Rotterdam;1506;80,99;19,75;qwepoi0080;OUT_OF_STOCK;
+81;81;47;Ágoston;agoston@mail.com;Salzburg;1511;81,99;20;qwepoi0081;IN_STOCK;2018-02-28
+;;;;;;;;;;;
+83;83;49;Botond;boti@mail.com;Sárvár;1521;-55,9;20,5;qwepoi0083;OUT_OF_STOCK;2018-01-27
+84;84;50;Tamás;tamcsi@mail.com;Siófok;1526;84,99;20,75;qwepoi0084;IN_STOCK;
+85;85;50;Tivadar;tivadurr@mail.com;Sopron;1531;85,99;21;qwepoi0085;IN_STOCK;2018-02-28
+86;86;51;Bálint;balintocska@mail.com;Szardínia;1536;86,99;21,25;qwepoi0086;OUT_OF_STOCK;
+87;87;52;Bence;bencu@mail.com;Tallinn;1541;87,99;21,5;qwepoi0087;IN_STOCK;2018-01-27
+88;88;53;Niki;nikkike@mail.com;Tokió;1546;88,99;21,75;qwepoi0088;IN_STOCK;
+89;66;54;Bernadett;bernike@mail.com;Tunisz;1551;89,99;22;qwepoi0089;OUT_OF_STOCK;2018-02-28
+90;90;54;Erzsébet;rezsikee@mail.com;Várna;1556;90,99;22,25;qwepoi0090;IN_STOCK;
+91;91;51;Laci;laciakiraly@mail.com;Varsó;1561;91,99;22,5;qwepoi0091;IN_STOCK;2018-01-27
+92;92;;Zoli;zilkaa@mail.com;Velence;1566;92,99;22,75;qwepoi0092;OUT_OF_STOCK;
+93;93;55;Joci;joccer56@mail.com;Vilnius;1571;93,99;23;qwepoi0093;IN_STOCK;2018-02-28
+94;94;56;Antal;antal@mail.com;Washington;1576;94,99;23,25;qwepoi0094;IN_STOCK;
+95;95;57;Ármin;armin@manimul.h;Wellington;1581;95,99;23,5;qwepoi0095;OUT_OF_STOCK;2018-01-27
+96;96;58;Pista;pista@mail.com;Zágráb;1586;96,99;23,75;qwepoi0096;IN_STOCK;
+97;97;59;József;jozseff@mail.com;Zürich;1591;97,99;24;qwepoi0097;IN_STOCK;2018-02-28
+98;14;59;Elemér;elemer@mail.com;Zakynthos;1596;98,99;24,25;qwepoi0098;OUT_OF_STOCK;
